@@ -3,7 +3,7 @@ The 2020 rulebook state is **FINAL**
 
 Only spelling corrections and minor clarificatios may be merged from now on, as well as buffs to the scoresheets to enhance scoring. 
 
-Current PDF (master)
+Current PDF (master) https://okdhryk.github.io/wrs2020/Rulebook.pdf
 
 ## How to generate a PDF file from a tex file
 ```
