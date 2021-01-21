@@ -5,6 +5,11 @@ Only spelling corrections and minor clarificatios may be merged from now on, as 
 
 Current PDF (master)
 
+## How to generate a PDF file from a tex file
+```
+$ ./latexdockercmd.sh pdflatex Rulebook.tex
+```
+
 ## FAQ
 See the Frequently Asked Questions here.
 
